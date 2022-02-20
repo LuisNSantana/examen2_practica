@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "segundoExamen", "segundoExamen\segundoExamen.csproj", "{DF75CAA3-21D2-4826-95D9-D81D11D2E227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primitiva", "primitiva\primitiva.csproj", "{33A61651-FF3D-4988-8CB9-39265BFF5DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buclesYmasBucles", "buclesYmasBucles\buclesYmasBucles.csproj", "{6894E215-4A70-453C-9A06-6A967D0F360F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF75CAA3-21D2-4826-95D9-D81D11D2E227}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DF75CAA3-21D2-4826-95D9-D81D11D2E227}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DF75CAA3-21D2-4826-95D9-D81D11D2E227}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DF75CAA3-21D2-4826-95D9-D81D11D2E227}.Release|anycpu.Build.0 = Release|anycpu
+		{33A61651-FF3D-4988-8CB9-39265BFF5DDB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{33A61651-FF3D-4988-8CB9-39265BFF5DDB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{33A61651-FF3D-4988-8CB9-39265BFF5DDB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{33A61651-FF3D-4988-8CB9-39265BFF5DDB}.Release|anycpu.Build.0 = Release|anycpu
+		{6894E215-4A70-453C-9A06-6A967D0F360F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6894E215-4A70-453C-9A06-6A967D0F360F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6894E215-4A70-453C-9A06-6A967D0F360F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6894E215-4A70-453C-9A06-6A967D0F360F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

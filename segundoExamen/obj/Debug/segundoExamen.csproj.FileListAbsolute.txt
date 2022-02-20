@@ -1,0 +1,5 @@
+/Users/luisnayib/Projects/segundoExamen/segundoExamen/bin/Debug/segundoExamen.exe
+/Users/luisnayib/Projects/segundoExamen/segundoExamen/bin/Debug/segundoExamen.pdb
+/Users/luisnayib/Projects/segundoExamen/segundoExamen/obj/Debug/segundoExamen.csprojAssemblyReference.cache
+/Users/luisnayib/Projects/segundoExamen/segundoExamen/obj/Debug/segundoExamen.exe
+/Users/luisnayib/Projects/segundoExamen/segundoExamen/obj/Debug/segundoExamen.pdb

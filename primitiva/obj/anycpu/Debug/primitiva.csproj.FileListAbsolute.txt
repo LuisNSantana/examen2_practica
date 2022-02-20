@@ -1,0 +1,5 @@
+/Users/luisnayib/Projects/segundoExamen/primitiva/bin/Debug/primitiva.exe
+/Users/luisnayib/Projects/segundoExamen/primitiva/bin/Debug/primitiva.pdb
+/Users/luisnayib/Projects/segundoExamen/primitiva/obj/anycpu/Debug/primitiva.exe
+/Users/luisnayib/Projects/segundoExamen/primitiva/obj/anycpu/Debug/primitiva.pdb
+/Users/luisnayib/Projects/segundoExamen/primitiva/obj/anycpu/Debug/primitiva.csprojAssemblyReference.cache

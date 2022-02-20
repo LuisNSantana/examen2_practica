@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/segundoExamen/buclesYmasBucles/bin/Debug/buclesYmasBucles.exe
+/Users/luisnayib/Projects/segundoExamen/buclesYmasBucles/bin/Debug/buclesYmasBucles.pdb
+/Users/luisnayib/Projects/segundoExamen/buclesYmasBucles/obj/anycpu/Debug/buclesYmasBucles.exe
+/Users/luisnayib/Projects/segundoExamen/buclesYmasBucles/obj/anycpu/Debug/buclesYmasBucles.pdb
